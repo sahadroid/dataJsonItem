@@ -1,0 +1,58 @@
+{
+	"items": [
+		{
+			"id": 1,
+			"name": "Bodrexin",
+			"unit": "Box",
+			"price": "24.000"
+		},
+		{
+			"id": 2,
+			"name": "Mixagrip",
+			"unit": "Sachet",
+			"price": "123.021"
+		},
+		{
+			"id": 3,
+			"name": "Panadol",
+			"unit": "Ampul",
+			"price": "23.500"
+		},
+		{
+			"id": 4,
+			"name": "Tirozol",
+			"unit": "Botol",
+			"price": "29.500"
+		},
+		{
+			"id": 5,
+			"name": "Sanaflu",
+			"unit": "Tablet",
+			"price": "36.200"
+		},
+		{
+			"id": 6,
+			"name": "Antalgin",
+			"unit": "Sachet",
+			"price": "116.500"
+		},
+		{
+			"id": 7,
+			"name": "Propanolol",
+			"unit": "Box",
+			"price": "83.300"
+		},
+		{
+			"id": 8,
+			"name": "Combantrin",
+			"unit": "Botol",
+			"price": "26.800"
+		},
+		{
+			"id": 9,
+			"name": "Aspirin",
+			"unit": "Sachet",
+			"price": "36.000"
+		}
+	]
+}
